@@ -1,0 +1,108 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "👋 I'm Muhammad Arsi Nata Yuda. Software Developer with 2 years of experience in developing user interface, testing, and debugging within financial technology company. Currently using Node Js (Typescript) to create Rest Api and Flutter to develop Mobile and Web Apps.",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "BFS Web App",
+        "startDate": "November 2020 - Present",
+        "description": "Develop new feature for corporate business on Bank Jago, focus on Loan System, Credit Scoring and transaction for corporate customer.",
+        "images": [
+          "images/portfolio/bfs-web/p1.png",
+          "images/portfolio/bfs-web/p2.png",
+          "images/portfolio/bfs-web/p3.png",
+          "images/portfolio/bfs-web/p4.png",
+          "images/portfolio/bfs-web/p5.png",
+          "images/portfolio/bfs-web/p6.png"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-flutter-plain",
+            "name": "Flutter"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "Node Js"
+          },
+          {
+            "class": "devicon-mongodb-plain",
+            "name": "Mongo Db"
+          }
+        ]
+      },
+      {
+        "title": "PX Mobile App",
+        "startDate": "December 2019 - November 2020",
+        "description": "Develop Mobile Apps and Web for access HR Operation, Contract Signed Remotely, Submit and Track Leave, Info Benefit, etc.",
+        "images": [
+          "images/portfolio/px-mobile/p1.png",
+          "images/portfolio/px-mobile/p2.png",
+          "images/portfolio/px-mobile/p3.png",
+          "images/portfolio/px-mobile/p4.png",
+          "images/portfolio/px-mobile/p5.png",
+          "images/portfolio/px-mobile/p6.png"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Enigma Camp",
+        "title": "Software Developer in Business Financial Technology Team",
+        "years": "November 2020 - present",
+        "jobSummary": "Placement at Digital Katalis as a Software Developer in BFS (Business Financial Solution) Tribe. Develop new feature for corporate business on Bank Jago, focus on Loan System, Credit Scoring and transaction for corporate customer.",
+        "mainTech": [
+          "Flutter, Node Js"
+        ],
+        "technologies": [
+          "REST API",
+          "Typescript",
+          "Hapi JS",
+          "Google Cloud Platform",
+          "Mongo Db",
+          "Redis",
+          "Web App"
+        ]
+      },
+      {
+        "company": "Enigma Camp",
+        "title": "Software Developer in People Experience Team",
+        "years": "December 2019 - November 2020",
+        "jobSummary": "Placement at Digital Katalis as a Software Developer in PX (People Experience) Tribe. Develop Mobile Apps and Web for access HR Operation, Contract Signed Remotely, Submit and Track Leave, Info Benefit, etc.",
+        "mainTech": [
+          "Flutter, Node Js"
+        ],
+        "technologies": [
+          "REST API",
+          "Typescript",
+          "Mobile App",
+          "Google Cloud Platform",
+          "Mongo Db",
+          "Redis",
+          "Web App"
+        ]
+      }
+    ]
+  }

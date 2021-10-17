@@ -1,0 +1,112 @@
+{
+    "basic_info": {
+      "description_header": "Indonesia",
+      "description": "👋 Saya MUhammad Arsi Nata Yuda. Softeare Developer dengan 2 tahun pengalaman dalam mendevelop User Interface, testing, dan debugging dalam perusahaan financial technology. Saat ini menggunakan Node Js (TypeScript) untuk membuat Rest Api dan Flutter untuk mengembangkan Mobile dan Web Application.",
+      "section_name": {
+        "about": "Tentang Saya",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Pengalaman"
+      }
+    },
+    "projects": [
+      {
+        "title": "BFS Web App",
+        "startDate": "November 2020 - Sekarang",
+        "description": "Mendevelop fitur baru untuk corporate bisniss di Bank Jago, focus terhadap Sistem Loan, Credit Scoring, dan Transaksi untuk corporate customer.",
+        "images": [
+          "images/portfolio/bfs-web/p1.png",
+          "images/portfolio/bfs-web/p2.png",
+          "images/portfolio/bfs-web/p3.png",
+          "images/portfolio/bfs-web/p4.png",
+          "images/portfolio/bfs-web/p5.png",
+          "images/portfolio/bfs-web/p6.png"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-flutter-plain",
+            "name": "Flutter"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "Node Js"
+          },
+          {
+            "class": "devicon-mongodb-plain",
+            "name": "Mongo Db"
+          }
+        ]
+      },
+      {
+        "title": "PX Mobile App",
+        "startDate": "Desember 2019 - November 2020",
+        "description": "Mendevelop Aplikasi Mobile dan Web untuk HR Operation, Penandatanganan Kontrak dari Jarak Jauh, Manajemen Cuti, Info Benefit, dll.",
+        "images": [
+          "images/portfolio/bfs-web/p1.png",
+          "images/portfolio/bfs-web/p2.png",
+          "images/portfolio/bfs-web/p3.png",
+          "images/portfolio/bfs-web/p4.png",
+          "images/portfolio/bfs-web/p5.png",
+          "images/portfolio/bfs-web/p6.png"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-flutter-plain",
+            "name": "Flutter"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "Node Js"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Enigma Camp",
+        "title": "Software Developer in Business Financial Technology Team",
+        "years": "November 2020 - present",
+        "jobSummary": "Penempatan di Digital Katalis sebagai Software Developer di BFS (Business FInancial Solution) Tribe. Mendevelop fitur baru untuk corporate bisniss di Bank Jago, focus terhadap Sistem Loan, Credit Scoring, dan Transaksi untuk corporate customer.",
+        "mainTech": [
+          "Flutter, Node Js"
+        ],
+        "technologies": [
+          "REST API",
+          "Typescript",
+          "Hapi JS",
+          "Google Cloud Platform",
+          "Mongo Db",
+          "Redis",
+          "Web App"
+        ]
+      },
+      {
+        "company": "Enigma Camp",
+        "title": "Software Developer in People Experience Team",
+        "years": "December 2019 - November 2020",
+        "jobSummary": "Penempatan di Digital Katalis sebagai Software Developer di BFS (Business FInancial Solution) Tribe. Mendevelop fitur baru untuk corporate bisniss di Bank Jago, focus terhadap Sistem Loan, Credit Scoring, dan Transaksi untuk corporate customer.",
+        "mainTech": [
+          "Flutter, Node Js"
+        ],
+        "technologies": [
+          "REST API",
+          "Typescript",
+          "Mobile App",
+          "Google Cloud Platform",
+          "Mongo Db",
+          "Redis",
+          "Web App"
+        ]
+      }
+    ]
+  }

@@ -1,0 +1,69 @@
+{
+    "basic_info": {
+      "name": "Muhammad Arsi Nata Yuda",
+      "titles": [ "Software Developer" ],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "instagram",
+          "url": "https://www.instagram.com",
+          "class": "fab fa-instagram"
+        }
+      ],
+      "image": "myProfile.png"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "Flutter",
+          "class": "devicon-flutter-plain"
+        },
+        {
+          "name": "Node JS",
+          "class": "devicon-nodejs-plain"
+        },
+        {
+          "name": "TypeScript",
+          "class": "devicon-typescript-plain"
+        },
+        {
+          "name": "MongoDb",
+          "class": "devicon-mongodb-plain"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain"
+        },
+        {
+          "name": "Java",
+          "class": "devicon-java-plain"
+        },
+        {
+          "name": "MySql",
+          "class": "devicon-mysql-plain"
+        },
+        {
+          "name": "React Js",
+          "class": "devicon-react-plain"
+        },
+        {
+          "name": "HTML 5",
+          "class": "devicon-html5-plain"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain"
+        },
+        {
+          "name": "Bootstrap",
+          "class": "devicon-bootstrap-plain"
+        }
+        
+        
+      ]
+    }
+  }
